@@ -1,0 +1,12 @@
+.pentagon {
+    width: 45px;
+    height: 45px;
+    background-color: #780120;
+    color: black;
+    text-align: center;
+    line-height: 50px;
+    clip-path: polygon(100% 50%,75% 93.3%,25% 93.3%,0% 50%,25% 6.7%,75% 6.7%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
